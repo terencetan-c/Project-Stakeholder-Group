@@ -1,0 +1,1551 @@
+[Aragao, David (DLSLtd,RAL,LSCI)] 10:57:51
+Diamond. She's She is a scientist from the MX. Data group at the Swiss light source.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 10:57:52
+Oh.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 10:57:58
+So she's interested in this team and I thought she could be an observer today and maybe give some.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 10:58:00
+Oh yeah, yeah sure.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 10:58:01
+Because she's aware of the concepts of fair data, etc. So. I think could actually help.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 10:58:07
+The project. We. Alright.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 10:58:08
+Yeah, yeah, absolutely. Yeah.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 10:58:12
+Hello.
+
+[Renaud Duyme (ESRF)] 10:58:13
+Hello
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 10:58:17
+We'll probably have to present ourselves anyway.
+
+[Renaud Duyme (ESRF)] 10:58:19
+Okay
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 10:58:20
+Huh.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 10:58:24
+How is the weather in Grenoble?
+
+[Renaud Duyme (ESRF)] 10:58:29
+Was snowing yesterday. Yeah, sometimes it happens on the in April, but it will melt maybe really fast because it's like 25 degrees tomorrow so.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 10:58:30
+Oh, snow. Wow. No.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 10:58:42
+Oh wow, big change.
+
+[Renaud Duyme (ESRF)] 10:58:44
+Thanks.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 10:58:46
+Hi everyone, am I late? I feel I feel late you're all here. Yeah.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 10:58:47
+Hello. Yeah.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 10:58:49
+Now, 2 min to the meeting.
+
+[Susanna-A Sansone] 10:58:49
+Yeah, me too. I, open, so we know what will be here.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 10:58:57
+Everybody's eager on the team, it looks like.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 10:58:58
+Cool. Well, it looks like, doesn't it? Fantastic.
+
+[Susanna-A Sansone] 10:58:59
+Yeah.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 10:59:00
+Okay.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 10:59:04
+So we are still. I think expecting Tim. And Brian and Kirsty Kirsty, yeah.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 10:59:17
+Costy as well? Yeah.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 10:59:22
+Okay.
+
+[Renaud Duyme (ESRF)] 10:59:22
+I'm so impressed talking to people in Oxford. It's like a
+
+[Susanna-A Sansone] 10:59:26
+Yeah. On the daily base, you know.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 10:59:27
+Yeah.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 10:59:32
+Well, not diamonds! Well.
+
+[Susanna-A Sansone] 10:59:34
+No, me. Yeah.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 10:59:37
+Yeah.
+
+[Susanna-A Sansone] 10:59:44
+We had an approach together and we are discussing things. So it's like a lots of communication.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 10:59:48
+Yeah
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 10:59:54
+Yeah, it's a lot going on
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:00:03
+I was just reading that Chat chat GPT is going to start reasoning which is interesting. Yeah.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:00:13
+Oh.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:00:13
+Whatever that mean. Yeah.
+
+[Susanna-A Sansone] 11:00:14
+Hmm.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:00:14
+Yeah, what does it mean? I don't know what it means.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:00:20
+Yeah, hi Kirsty. Okay, cause I mean, normally you expect to reason with models and Logic and ontologies and things not.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:00:22
+Hello.
+
+[Syder, Kirsty (DLSLtd,RAL,LSCI)] 11:00:23
+Nice.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:00:30
+Neural networks. I don't know. What do they what do they mean?
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:00:37
+Who knows?
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:00:43
+Though we need, we need Tim and Brian. I don't wanna wait too long because it's We find we've only got an hour and we have to Give Terence time to go through his presentation.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:00:57
+So. Maybe we just wait a minute or 2 before we. Start if that's okay.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:01:23
+Actually, Terrace, did everybody accept this? Okay.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:01:27
+Yeah.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:01:33
+Alright, good. Only 1 min passed. I know, but this is Zoom. I mean, Zoom Meetings basically happen on time.
+
+[Susanna-A Sansone] 11:01:34
+Only 1 min past the hour.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:01:43
+Not like real meetings.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:02:20
+Well, I've it's 2 min past I wonder if we should just make a gentle start and
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:02:30
+Yeah, yeah, that sounds good.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:02:31
+Which is so, cause I, so I know, I know everybody, I think probably not most people know most people.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:02:43
+But maybe we just very very briefly say who we are and what our role is and Wish there.
+
+[Renaud Duyme (ESRF)] 11:02:54
+I was googling that little Google.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:02:58
+Why you don't, you don't need to now because he's here. David, would you?
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:02:58
+Okay.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:03:05
+Could you start yourself?
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:03:06
+Yeah, I'm, I'm a senior beam line scientist at one of the maximum lines here at Diamond.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:03:13
+I've used interest in data, fair data, public data. You know, all this so been.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:03:19
+We're teasing Steve about all these subjects in the last years that I've been a diamond.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:03:25
+I have even a publication while I work in Australia about, making data public automatically and ways of people to set data sets and now they target.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:03:34
+Was this, TARGET is my time, this process that eventually died. I think anyway, so it's that.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:03:40
+And I brought, someone, that is doing, I'm in the next.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:03:50
+DETAGE, but this is slice source and I'm doing a sabbatical at the moment at Diamond.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:03:56
+And I'm really interested in their data as well and one of the projects we're working on at the moment.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:03:58
+Actually is using. Crystal images for training of neural networks to allow some kind of samples. And that obviously very much ties into the play data and like how can we share this in a nice effective way to leverage and improve facilities worldwide.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:04:10
+Okay.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:04:15
+I'm just If she can be of any user, hopefully. Yes.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:04:16
+Excellent.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:04:20
+Yeah, no, it's great. Thanks, Kate. So it's twice we've met this week.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:04:24
+Yes. Brilliant. Thank you.
+
+[Renaud Duyme (ESRF)] 11:04:31
+So, I joined, 4 years ago, so I, I mostly work on making the links between the publication, the science done in, in journals and make the links with experiments.
+
+[Renaud Duyme (ESRF)] 11:04:52
+And doing some some statistics and linking all information we can have institution. Officers and so I also started working with We Stephen Kirsty on the on the So, linking all data sets.
+
+[Renaud Duyme (ESRF)] 11:05:14
+To technical. To experiment techniques. That's the topic at the moment.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:05:19
+William. Thank you, running. Kirsty, you're next on my screen.
+
+[Syder, Kirsty (DLSLtd,RAL,LSCI)] 11:05:26
+Yeah, I think I actually do know almost everybody. I suffocate. Yeah.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:05:29
+Yes.
+
+[Syder, Kirsty (DLSLtd,RAL,LSCI)] 11:05:34
+I'm, research data manager, a diamond. So looking into open fair data.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:05:39
+Brilliant. Thank you. Susanna.
+
+[Susanna-A Sansone] 11:05:43
+Nice, Suzanne, professor of data readiness in the Department of Engineering Science. We run a data radius group which work on research data management and since we are also author of the Fed Principal, then obviously everything becomes fair focused.
+
+[Susanna-A Sansone] 11:06:00
+And I am the Oxford academic supervisor for Terence.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:06:05
+Thank you very much. So we're still waiting for Tim and. Ryan, but I think we need to make a start.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:06:13
+So I. What I proposed just to hand over to Terence in a second. Oh, here's Brian.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:06:19
+Is Brian. Brian, hello.
+
+[Brian Matthews - STFC UKRI] 11:06:24
+Hello. Hi, Polly has been a bit
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:06:26
+You're just in time to tell us who you are. And then we're going to hand over to Terrence.
+
+[Brian Matthews - STFC UKRI] 11:06:29
+Okay. Okay. Okay.
+
+[Brian Matthews - STFC UKRI] 11:06:36
+Yeah, I'm, Matthew's, I have a new client who I'll tell you.
+
+[Brian Matthews - STFC UKRI] 11:06:41
+I'm, head of the data engineering theme for scientific computing. which is It's like the expanded role from my previous one I've been involved with.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:06:50
+Oh.
+
+[Brian Matthews - STFC UKRI] 11:07:00
+Data management. For scientific programs for along time including on and off for for the for for Diamond and ISIS here.
+
+[Brian Matthews - STFC UKRI] 11:07:13
+On real good site. Most recently I was involved in a big European project but Steve was also involved in called expands.
+
+[Brian Matthews - STFC UKRI] 11:07:24
+We're finished by the area now. And where I was led a work package on enabling fair data, which produced a whole bunch of recommendations on on fair data for facilities.
+
+[Brian Matthews - STFC UKRI] 11:07:37
+Corporate.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:07:37
+Good. Thank you, Brian. So, okay, so I'll hand over to Terrence who will explain who he is and what this meetings for.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:07:49
+I'd just like to say first of all thank you all for attending very much appreciated. But secondly, Terrence, Terence will need to give a presentation for his transfer, so it'd be really useful if we could let him.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:08:01
+Do the whole presentation before interrupting. So if that's okay, if we could take. Questions after Terence's presentation, I'm sure we can go back to particular slides.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:08:13
+So, thank you. So, Take it away.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:08:15
+Oh, before we. But before we start I wanted to ask because I have the captions turned on right now because we were thinking of saving the transcript.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:08:26
+So, that we get, we don't have to like take notes. So it wouldn't be like audio recording or like, image recording, which just be the like a recording of what we say in text form so we were just wondering if that's okay with everyone
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:08:43
+Okay. Okay. Thank you. I will.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:08:48
+Share my screen now.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:08:57
+Can everyone see this? Yeah, okay.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:08:59
+Yep.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:09:05
+Okay, so.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:09:08
+Okay, so hello everyone. I'm Terence. I am a PhD student at Oxford.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:09:16
+So today I'll just be presenting my PhD project, which is a joint research project between Diamond and Oxford.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:09:23
+So my supervisors are Steve who is from Diamond and Susanna Philip are from Oxford. And unfortunately Philip couldn't make it today.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:09:31
+And, of course we have. Everyone here as part of the project stakeholder group.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:09:39
+So I just wanted to start off with the research overview. So we have 2 research questions that we want to ask.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:09:47
+So how does the adoption of the fair principles at diamond affect synchrotron data management? And what benefits, do they bring to diamond?
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:09:55
+So we will answer this question by first identifying a key stage in diamond science life cycle. Evaluating the impact of the proposed improvements that this project may have on the processes of diamond.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:10:11
+While contributing to the activities of the relevant communities. So this would allow us to jump start the verification process and perhaps serve as an example for other synchrotron facilities.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:10:25
+Access access any challenges and opportunities to scale the process. And ultimately contribute novel insight and possible solutions. And of course we had this stakeholder group to represent.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:10:40
+Key interests and perspectives.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:10:43
+So here's the outline for this presentation. So first, we just have a high level introduction starting with the fair principles.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:10:53
+Next, I'll talk about why diamond meets fair and how it could contribute to the organizational goals.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:11:01
+And lastly, I'll just do a brief summary of the relevant communities and projects. And next, I'll just introduce the details of my project.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:11:12
+So in terms of like work done. I have familiarized myself with the Fair Prince Pose and the communities operating in this area.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:11:19
+And learned about how synchrotron's work through an online course. That's why just talking to people around Diamond over the past few months.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:11:28
+I've also identified the area that I wanna focus on, which brings me to the work plan.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:11:34
+Well, then talk about exactly what I would do before discussing the possible benefits and risk. So I'll go into further detail on all of this later in this presentation.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:11:45
+And finally at the end I just hope to get some feedback from everyone.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:11:51
+So the fat principles they are a set of principles and best practices for data management. So in a nutshell, we need to have unique and persistent identifiers.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:12:05
+Detailed provenance and workflows. Community-defined descriptive metadata. Come of access being as open as possible and as close as necessary.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:12:19
+Community defined terminologies. And lastly, terms of use and clear licenses.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:12:28
+So one of the pillars of the fair principles is machine actionable data. Which is essential to human machine collaboration and machine to machine communication.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:12:40
+So, so for example here we have the the the panel ontology. Over here. I'm sure.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:12:48
+Everyone here should be familiar with this so the entities in the panel ontology are formally defined with subclasses and supercars, allowing machines to understand the relationships between the different entities.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:13:02
+So machine actionability like this enables. Fad, to support. Veryifiable and reusable signs at scale.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:13:14
+But how does this help diamonds specifically?
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:13:18
+Well, Diamond has 5 organizational goals. So the first one is to be a world leading facility in research.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:13:26
+So fair and aables diamond to deliver higher quality data service and enhance the data management systems.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:13:35
+Second goal is to maximize the impact of diamond and fair facet. And that facilitates discovery and sharing of research outputs.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:13:44
+Which can enhance diamonds reputation and increase. Basically for researchers.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:13:52
+The third goal is to ensure the long-term sustainability of Diamond as a national facility. So, does maximize the usefulness of research.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:14:03
+Which will make it, which will make funders more likely to continue to fund diamond. Okay, the fourth goal is to engage and inspire general public through promoting signs.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:14:14
+So that enables the public to. Oh access information that's generally confined within academic circles.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:14:23
+Which will hopefully promote a more inclusive. Dissemination of information.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:14:29
+And lastly, to continuously plan for diamonds, technical and scientific future. Machine Action Bowl data could allow for better analysis of the type of research being conducted.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:14:40
+Which would help diamond, guide strategic decisions regarding future capabilities.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:14:48
+So while some of the relevant communities and projects in this area So of course we have the European science clusters set up by the European Strategy Forum on Research and Innovation.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:15:00
+Which features the 5 science clusters. So each cluster has its associated projects. In our case, we are interested of course in the photon and neutron science cluster with and the associated pen ask and expanse projects.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:15:17
+So this 2 projects have produced 2 and services such as the panel ontology mentioned earlier. And all of this cluster projects contribute towards the.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:15:29
+You can open science cloud, also known as EOS. There is also the League of European Accelerator-based, Photon Sources, also known as Leaps.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:15:41
+With their own strategy.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:15:45
+They are global initiatives such as the Nexus Advisory Committee. Which oversees the development of the Nexus data format, which is actually more of a metadata model.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:15:56
+And the research data lines which host the photo and neutron science interest group. So this is just a not exhausted list of the relevant communities in this area.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:16:09
+So what have I been doing so far? I have conducted a literature review of the Fair Landscape.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:16:16
+With a focus on Panosk and expense. I have also set up this. Stakeholder group to obtain feedback.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:16:25
+And lastly I have plenty out what I'll be doing for the rest of my PhD which involved choosing a specific area of the science lifecycle.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:16:36
+As well as risk and benefit assessments. So like Steve mentioned earlier, this is all this will be required for my transfer exam in September this year.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:16:51
+So when I talked about the fair landscape review, I meant that I meant that I read some of the reports by the relevant communities which outlined the The fat toolkit?
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:17:03
+So this is just, non-existed list of things that we are referring to when we say Fat 2 Kit.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:17:11
+So the reports also talks about talk about the challenges and areas still requiring work. So for example, they mentioned how hard it is to introduce culture change and emphasize the need to continue communicating and disseminating the fair principles and your benefits.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:17:32
+So I mentioned science lifecycle earlier, so what exactly does that mean? Well, diamonds science life cycle begins with the proposal stage.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:17:42
+So researchers had to submit a proposal for the experiments that they want to conduct at diamond. So these proposals are then reviewed by a committee and if approved the experiments are scheduled and carried out.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:17:57
+Data obtained from the experiments are stopped by Diamond, who also provide tools for the users to analyze the collected data.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:18:05
+Users are then required to submit an experimental report, which is stored by diamond. And finally, the users can make publications based on their results.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:18:16
+And this whole cycle could repeat again. So the stage that this project will focus on is the proposal stage.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:18:25
+So here's just an example proposal, not from Diamond, but from ESRF.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:18:31
+Here you can see the title, the auto and the proposal abstract. And these are just the components. These are the components of the proposal that Diamond is actually planning to publish in the future.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:18:45
+And over here we can see what. Just what meta data we can expect to have. So right now it's quite basic method data.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:18:54
+So the intention is to enhance this metadata making it richer and machine actionable. To make the.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:19:02
+To make the proposal stage. FAA compliant and hopefully creating a cascading effect on the on processors in the other stages.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:19:14
+So that was a lot of information. So just to summarize everything. We can start the verification process by considering the domain relevant metadata requirements.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:19:25
+And formulating these considerations as machine actionable metadata. And. Diamond is planning to publish parts of the proposals which we want to make fair compliant.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:19:40
+The machine learning community. I have made significant advances over the years. Providing us with many sophisticated tools to extract the metadata from the O's.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:19:53
+And the FACT community of course have also produced ontologies and controlled vocabularies that can be linked to the metadata through semantic annotation to make the metadata machine actionable.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:20:07
+So we are carrying out this project at this point in time because we believe that the machine learning techniques and the fair ecosystem have Finally reached a level of maturity that allows us to do what we are proposing.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:20:20
+There's also a clear momentum in terms of funding and we hope we can show the diamond leadership that it's worth investing further in that data.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:20:30
+So what exactly are the, the metadata requirements and how exactly do we get the machine ash for metadata from them?
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:20:41
+So I'll just take a look at a few of the experiment proposals like the one from before and they often include metadata regarding experimental techniques, chemicals, and topics.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:20:55
+So this is just a non exhaustive list of metadata present in the proposals and of course proposals for experiments in different scientific domains would have different metadata present.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:21:06
+And I'll have to investigate the structure of the proposals further to determine. Exactly what metadata is present.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:21:13
+And this would be part of my future work for this project.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:21:18
+Okay. So we have to extract the metadata from the proposals. This can be done with tools such as the cam data extractor.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:21:28
+And the CWTS classification. This one, this one in particular is quite interesting.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:21:34
+So the team. Behind this method took 71 million publications that are connected to each other by citation links.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:21:44
+So the idea is that research areas consists of publications that are relatively strongly connected by citation links.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:21:52
+And this publications that, Shawnee Connector can therefore be expected to be topically related.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:21:59
+So what it is that they used a clustering algorithm to cluster the publications. Based on their citation links.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:22:08
+And since clustering is an unsupervised technique, even if we have the clusters, we wouldn't know which cluster corresponds to which research area.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:22:19
+Because there are no labels for them. So for each research area, the team provide a large language model.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:22:26
+In this case, they use GPT 3.5. With the titles of the 250 most cited publications in the area.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:22:34
+And ask the model to return a label for each research area. And you can see the results here. So each of this.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:22:42
+Small labels are the labels return by the large language model. So after extracting the metadata, we have to link them, link them to concepts and ontology such as the pan ontology, the chemical entities of biological interest ontology.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:23:02
+And the and perhaps the open Alex topic classifications which was actually built using CWTS classification method.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:23:12
+So why exactly are we hoping the output of this entire process would look like? So here we have the.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:23:20
+The same example or proposal from before which talks about phase contrast imaging of sea line spree ice.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:23:27
+You've seen the what it looks like before and by using its citation links and abstract we hope to extract metadata.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:23:36
+Regarding its topic. Substances involved and experimental techniques used so here we can see some of the metadata is linked to like ontologies.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:23:50
+So for example, phase contrast imaging here. It's linked to its associated term in the panel ontology.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:23:56
+And of course, this is just a non exhausted list of what. What we hope it will look like in the future.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:24:05
+Okay, so just a summary of my work plan. I will focus. On the work. By the photo and neutron committee to get a picture of the current internal processes in order to identify and confirm the areas that could be enhanced by fabric verification.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:24:24
+I would then have to actually create the data pipeline. As mentioned earlier, I have to investigate the structure of the proposal so determine what metadata is present.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:24:37
+I will identify machine learning techniques and ontologies that could be used to extract the metadata and make them machine actionable.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:24:46
+How would then of course have to put everything together. And we'll also need some way of evaluating the pipelines, performance.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:24:54
+So after creating this data pipeline, I'll explore how the machine actual metadata can be used to enhance selected diamond processes.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:25:06
+And next, I may have to use qualitative methods such as surveys and interviews with diamond staff and researchers to evaluate how useful the potential applications would be.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:25:20
+And finally, I'll just come up with recommendations that will enable the continuation of the work done by this project.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:25:26
+Which would hopefully help to address the future needs of diamond and other photo and neutron facilities.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:25:35
+So over this 2 slides, I'll just introduce a few example potential applications in detail. So as you might recall, the second stage of the science life cycle is the proposal review process.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:25:47
+So what happens is that external experts are invited on to the review panel. And proposals are manually assigned to reviewers based on matched expertise.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:26:01
+So scientific review is then conducted. And proposals are ranked and being time is. Beam time is basically allocated down the list.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:26:10
+So instead of having the proposals be manually assigned. The machine actual meta data could help to. Make the assignment automatic based on like a similarity ranking system.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:26:25
+So another potential application is the classification of topics. So currently, diamond classifies. The proposals under broad topics like, like you can see here like physics or like chemistry.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:26:38
+So enhanced metadata could allow for more granular classification topics which could enable better analysis of the type of research being conducted at Diamond.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:26:49
+So disc could help diamond back the plan for future expansions and upgrades. So of course we hope that this project would have a series of cascading effects throughout this entire scientific process, not just the 2 mentioned before.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:27:04
+So here are some of the potential impacts for each subsequent stage.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:27:10
+So propose a review, as mentioned earlier, ultimately to assignment of proposals, can increase the speed of the review process.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:27:18
+And if we can extract metadata properly, that suggests that the proposal is written well. And streamline proposal reviews would.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:27:28
+Of course, lead to quicker experiment scheduling. The metadata could also allow Diamond to identify similar pass experiments to avoid duplication.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:27:38
+Matter data could include information that optimizes data storage organization. Proper matter data tagging at this stage ensures that data start in a fair compliant manner.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:27:51
+Rich metadata can be leveraged to automate certain aspects of data analysis such as preliminary data cleaning.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:28:01
+And it can. It can enable the development of more sophisticated analysis tools. Tailor to the specific types of experiments conducted at diamond
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:28:15
+Mathodata could streamline report generation by pre-populating sections with data specifics. And as mentioned earlier, more specific method data could enable more granular classification of topics.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:28:31
+So what of some of the risk of this project? So supervise machine learning models. Of course, they require a label data sets and labeling of data sets can take a long time.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:28:45
+So instead We would use unsupervised machine learning models which don't require labor data sets or wherever possible.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:28:54
+Some machine learning models. Also require huge amounts of data to function and diamond might actually not have enough viable proposals for training.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:29:06
+But we can use proposals from other facilities like the ESRF. And just generally speaking, people can be resistant to cultural, culture changes which ties back to what the panels and expense reports were saying.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:29:23
+So feedback from everyone here would ensure that we shape this project and the way that benefits the staff and researchers in order to incentivize them to incorporate the principles into their activities.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:29:40
+So thank you so much for taking the time to listen to my presentation. And we just hope to get some feedback.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:29:48
+From you regarding the novelty and usefulness of this project and discuss future engagements.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:29:56
+Thank you, Terrence. Excellent. Actually, before we start any discussion is Tim's not here, is he?
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:30:06
+I think, or is he just not on my screen? For
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:30:10
+Don't think he's here. Okay, no. Okay. So It's always difficult to know whether to be formal and have hands up or just let people talk.
+
+[Susanna-A Sansone] 11:30:11
+Don't see you.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:30:22
+So I'm thinking maybe we just let people talk and if it if people are unable to. Make their points maybe we'll start using hands is that is that okay and these things tend to be either nobody says anything or everybody says, everybody says a lot.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:30:41
+So. Hopefully we'll have a bit of discussion. Would anybody like to kick us off and maybe say something about whether they think this project is interesting and Fireball.
+
+[Brian Matthews - STFC UKRI] 11:30:41
+Okay.
+
+[Renaud Duyme (ESRF)] 11:31:04
+I can start Stevie Schumont.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:31:06
+Thank you.
+
+[Renaud Duyme (ESRF)] 11:31:08
+So thanks, Quiet clear. One topic that
+
+[Renaud Duyme (ESRF)] 11:31:21
+I think important to cover is the
+
+[Renaud Duyme (ESRF)] 11:31:25
+Is the curation of the data you will generate. When you generate some, some some additional data with machine learning or
+
+[Renaud Duyme (ESRF)] 11:31:40
+You may end up with data that is not relevant. So for example, a bad chemical component associated to a proposal.
+
+[Renaud Duyme (ESRF)] 11:31:53
+So this means that if you include this data to to a review process with people that are specialists of this proposal.
+
+[Renaud Duyme (ESRF)] 11:32:04
+They could clearly see that's the For example, the chemical component that is associated to the proposal is not the right one.
+
+[Renaud Duyme (ESRF)] 11:32:13
+So, It's interesting because you take the topic at the proposal level. This could be done as well as the at the at the experiments then in fact when you showed a screenshot from ESRF It says construct of an experimentation where we reuse the labella.
+
+[Renaud Duyme (ESRF)] 11:32:36
+Of the actual proposal because for one proposal we can have many experiments. So the data you show it's just because we, we don't have a, don't have a specific abstract for an experiment.
+
+[Renaud Duyme (ESRF)] 11:32:51
+So you can have multiple, session for the same proposal. That's so I stop now and maybe other people have things to say because I won't stop.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:33:06
+Thanks, did you have any thoughts on that, Terrence?
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:33:18
+Yeah, I mean in terms of just adding on, I mean generating detail using machine learning.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:33:24
+Of course there will be it wouldn't be 100% accurate. I mean, even with, like the large language models today, it's quite, they tend to hallucinate quite a lot.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:33:35
+So, but I think, I think this will definitely be part of. My research project where we, you know, define.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:33:43
+Decide on like a performance metric for it. To decide. Like. Some kind of benchmark to see how successful it is.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:33:51
+And I mean, if, if we've determined that, you know, this is, that generating like a lot of nonsense data that's not really useful that still kind of answers the research my research questions because that tells us that maybe the technology is a mature enough for diamond to invest in this at this point in time.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:34:12
+But yeah, this will definitely be something that I'll be exploring in the future.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:34:13
+Yeah.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:34:20
+Thanks, Terence. So yeah, I mean, maybe it's worth. Pointing out what we're, what Diamond is planning to do in terms of proposal abstracts because we are, we do have, we do have a plan to publish them as, as part of the DOI just as the ESRF do.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:34:40
+But that is some way away. Have access to them internally. But we won't be publishing them for some time and in fact one of the hold ups is that releasing this thing all need to be reviewed from a legal perspective.
+
+[Renaud Duyme (ESRF)] 11:34:59
+Yeah. It will.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:34:59
+It's a little bit painful. But, I'm sorry, but when you said there could be different abstracts.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:35:06
+Under the same proposal. Are you thinking of bag data particularly because that's something that we need to.
+
+[Renaud Duyme (ESRF)] 11:35:11
+Yeah, what we do is at ESrash is that we don't generate a DI for the proposal we generate data set DI for each experiment session.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:35:12
+Okay.
+
+[Renaud Duyme (ESRF)] 11:35:27
+So most of the time it's in facility you have a 1 relation one proposal one experiment But in our case, the generate the data DI.
+
+[Renaud Duyme (ESRF)] 11:35:38
+Once the first experiments, the first session is done. And if there is a new session, we generate a new III automatically.
+
+[Renaud Duyme (ESRF)] 11:35:50
+So When we when we are talking about adding metadata to to the dataas we we do that at the data set level.
+
+[Renaud Duyme (ESRF)] 11:36:03
+The review process I mean the past we took for that is at proposal level we have a structure form. And we don't we don't look at the full to full video so we have check back so we can have a in initial information, for example, for chemical components.
+
+[Renaud Duyme (ESRF)] 11:36:26
+On MX. I don't know if you do that at Diamond. You're going to ask the scientists.
+
+[Renaud Duyme (ESRF)] 11:36:32
+Which components which do you plan to put in the synchrotron and then you select a classification you directly use the classification and your ontology within your proposal.
+
+[Renaud Duyme (ESRF)] 11:36:47
+With some like, But it could be as well extracted from the proposal itself. So voice creating like huge forms and which are complex for the for the user.
+
+[Brian Matthews - STFC UKRI] 11:36:49
+Hmm.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:37:02
+Yeah, it's an interesting. That interesting point. So we do, I mean, there are some pulled down.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:37:08
+Then use and some restricted options for the proposals, but I guess what we're looking at is kind of extracting the formal metadata from the from the text.
+
+[Renaud Duyme (ESRF)] 11:37:19
+Yes.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:37:20
+And the big question that Terence will address is whether or not this is even possible. As you said, we're not we're not pre judging that is the research question Brian, will you?
+
+[Brian Matthews - STFC UKRI] 11:37:26
+Yeah.
+
+[Renaud Duyme (ESRF)] 11:37:34
+It is definitely possible and there's no You can extract, I mean, there are a lot of projects where people are extracting tons of stuff from full text.
+
+[Brian Matthews - STFC UKRI] 11:37:35
+Yeah.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:37:38
+Hmm. Hmm.
+
+[Brian Matthews - STFC UKRI] 11:37:49
+Yeah.
+
+[Renaud Duyme (ESRF)] 11:37:50
+So, you can. You have a lot of work already done where if you want to extract some some chemical components yeah So you can use that still the validation of what is output is really important.
+
+[Renaud Duyme (ESRF)] 11:38:08
+So. Maybe it could be done by the users themselves if it's before the validation process you could have a feedback look to the user saying we discovered this kind of information is it Right, yes, yes, yes, we need to know that before the actual review process.
+
+[Brian Matthews - STFC UKRI] 11:38:12
+Yeah.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:38:33
+Now ask your point.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:38:34
+Yeah, yeah, that's a good. Yeah, that's good.
+
+[Brian Matthews - STFC UKRI] 11:38:41
+Yeah, I'm I think I'd echo that I mean I think there is a I mean I think it's there is a valuable piece of work there but there is quite a lot.
+
+[Brian Matthews - STFC UKRI] 11:38:52
+Done already. You mentioned Cheme Day through extractor and things. And you have highlighted that.
+
+[Brian Matthews - STFC UKRI] 11:39:01
+The actual. See data here is actually relatively small.
+
+[Brian Matthews - STFC UKRI] 11:39:10
+Historic data. So
+
+[Brian Matthews - STFC UKRI] 11:39:15
+I mean and even smaller if you focus on particular beam lines or something. Particular classes of beam lines. So.
+
+[Brian Matthews - STFC UKRI] 11:39:24
+That may well restrict it. On the other hand, you know, if you're looking for chemical terms or
+
+[Brian Matthews - STFC UKRI] 11:39:35
+Indications of methods. Which have a ability to be restricted vocabulary, you might actually get quite a long way with relatively simple text.
+
+[Brian Matthews - STFC UKRI] 11:39:44
+Mining techniques. So.
+
+[Brian Matthews - STFC UKRI] 11:39:52
+I think there's a lot of value there.
+
+[Brian Matthews - STFC UKRI] 11:39:58
+I think you'd be careful to think what method data you really are looking for.
+
+[Brian Matthews - STFC UKRI] 11:40:04
+I mean, some of the more structural administrative metadata will be collected other ways. So I think we're looking for very much for the topic classification for the for the chemical samples for the Methods.
+
+[Brian Matthews - STFC UKRI] 11:40:20
+For the
+
+[Brian Matthews - STFC UKRI] 11:40:24
+Sort of restrictions. On it.
+
+[Brian Matthews - STFC UKRI] 11:40:32
+And there might be an interesting question comes comes down the line is having collected it, what you then do with it and how that might frame the questions further down the cycle.
+
+[Brian Matthews - STFC UKRI] 11:40:43
+So how that might. Frame and determine. What metadata you collect at the experiment. The information you collect at the Proposal stage may well frame the the questions you asked.
+
+[Brian Matthews - STFC UKRI] 11:41:02
+The information you collect it. Thanks, for example. And
+
+[Brian Matthews - STFC UKRI] 11:41:11
+A big piece of working expands. Was around data management planning. And making that active. And that sort of the sort of, consequence you could get out of that, you, you begin to build.
+
+[Brian Matthews - STFC UKRI] 11:41:27
+Quite active data management plan by extracting good mesitation at the beginning. Which could then steer.
+
+[Brian Matthews - STFC UKRI] 11:41:36
+What data and method data is collected further down the process.
+
+[Brian Matthews - STFC UKRI] 11:41:42
+So that could be an interesting angle. Of that.
+
+[Brian Matthews - STFC UKRI] 11:41:52
+Once more comment was you in your example you had references to Kathy, I think. Is that in your?
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:42:05
+Yeah. Yeah.
+
+[Brian Matthews - STFC UKRI] 11:42:05
+I would. You use that directly, I would use, I'd use some form of chemical identifier.
+
+[Brian Matthews - STFC UKRI] 11:42:13
+So you're trying to find a That's which we then can. Use that as a search term into KEVY or other databases.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:42:22
+Okay.
+
+[Brian Matthews - STFC UKRI] 11:42:24
+Target should be.
+
+[Brian Matthews - STFC UKRI] 11:42:30
+Yeah, I mean, it is good. Looks a good place to start. I think you have to play it'll start opening up new questions to see further down the line.
+
+[Renaud Duyme (ESRF)] 11:42:47
+But one thing probably in the process you have to to keep in mind in is that beam line scientists don't have time to do curation.
+
+[Renaud Duyme (ESRF)] 11:42:59
+I see David Las Mailing. So probably when we're talking about creation, Really decide who has time to do it and it needs to make sense.
+
+[Renaud Duyme (ESRF)] 11:43:19
+For people that are doing this this.
+
+[Renaud Duyme (ESRF)] 11:43:24
+For example, in the CDW 2 S topic classification. I mean nothing is perfect in classification, so.
+
+[Renaud Duyme (ESRF)] 11:43:34
+Yeah, again, the.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:43:39
+I have a few, few questions I could throw up if you allow me to. So the first one is.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:43:42
+Thanks, David.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:43:42
+Okay.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:43:45
+Is the main product, is the process main question, how to help the reviewer selection process, just for me to understand.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:43:52
+Is this the main question of this project? No.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:43:54
+No, it's just so it the main question is more just what benefits it could bring to all the processes, but we just use the review processes like an example.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:44:00
+Well, the problem.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:44:03
+Because yeah, because we're talking a lot, for example, about the abstracts and you know I had the question you know are the objects open and Steve already answered a little bit they are but they aren't at least at DLS and in your slide you had something about also other facilities and my understanding is that they are not easily open.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:44:21
+The abstracts of the proposals. But also, yeah, if we concentrate on the access of the proposals is.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:44:27
+And if they are not open, then we are not really working in fair data environment, right?
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:44:32
+Hmm.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:44:32
+Because if they are not open, it's not fair. You know, we're talking about fair.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:44:36
+But then also if we, okay, US is not. You're helping the review is just one of the steps because we also talking about the OIs and the SRF way where they do a DI for each visit.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:44:49
+So for a proposal as multiple visits. Not even talking about bags that Steve alluded a visit can have many different experiments like in our area you know Okay, and structure biology in a 4 h visit the same research group from the same academic group there by different post docs, different PhD students, and even the same person might be working on 2 different projects totally unrelated.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:45:12
+Still a protein, but very unlikely one could be environmental in the other might be human disease, you know, so, you know, some enzyme that helps the environment, the disease on the human.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:45:20
+Hmm.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:45:22
+So it could be very, very different. So DIY for a visit is still quite broad, you know, in terms.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:45:26
+Of what is actually happening on that visit. And again, The abstracts will be even further away because the research proposal will be for a bag like Steve said.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:45:38
+So it's like 6 or 7 PIs. So there's no space to describe what HPI is working.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:45:43
+HBOs have like 6 projects. The vi is 6 BI, so you'll have immediately 36 projects.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:45:47
+So the proposal object will be very broad strokes so that that will be that a poor if you want to use that abstract to link to anything, you'll be that a poor because that's what it's expected.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:45:50
+Hmm.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:46:00
+And of course what I'm more interested in is in the data that comes from an instrument like, you know, a beam line at and making that link between the initial after of the proposal and the data and instrument.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:46:12
+Is hard because of what I was just described and the idiosyncrasies. I was like thinking that objects of the papers would it would be much closer.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:46:13
+Okay.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:46:21
+For example, I had the president Steve knows, with a summer student 2 years ago where we were linking the data at the paper and the public and the PDB, the protein data bank to the data on this because we have access to data on disk.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:46:36
+And we could actually check the users report that the data on disk was really collect on that date and on that instrument and most of the times was, but 10% of the times wasn't.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:46:45
+90. So they actually wrote the metadata and because I have access to that a good link but as soon as I could link I could look at other data sets that were on the Sinker and they had been collected but never published because they had similar characteristics.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:46:59
+Similar unit cell, whatever. N could see all this user collected for 6 times and then you got one for the data for the publication.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:47:05
+This user collect once. And you got the publication. This user work for 10 years on this version and then you got the publication.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:47:11
+But all this data is not public is stored in diamond storage. And either the user only wanted the data to publish.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:47:18
+Again, you know, linking this, there is interest again, but we don't have the OIs, we don't have, you know, nothing like this set up.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:47:20
+Hmm.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:47:24
+So again, it's a completely different beast if we talk about that on the instrument and linking.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:47:28
+There's a bit more value but it's more on the publication. A priori when we that we are just different proposals in.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:47:34
+We want to have the review as we have that world is still not open. We don't have anything of that data, you know.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:47:40
+So again, it's a bit unclear to me when, you know, Roger wants to do a lot of things.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:47:44
+It looks quite ambitious if you want to do from the reviewer help too that it looks a lot for that person alone like you so it looks a big package.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:47:54
+My main adviser concentrate on some feasible Outcomes. Maybe have some ambitious but concentrate on something that will give some results.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:47:56
+Okay.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:48:01
+Don't know if you have a
+
+[Renaud Duyme (ESRF)] 11:48:03
+Yeah, if you, I agree that you don't know what to say. If you, for example, if you start working on chemical components, Nothing, you will have to dig a lot of creating your test your test case your your data training looking in a clear your your samples and your data model and you And if you work on topics, it would be a completely Another use case.
+
+[Renaud Duyme (ESRF)] 11:48:38
+The topic classification maybe is more useful for for the top management to actually understand which kind of science is done.
+
+[Renaud Duyme (ESRF)] 11:48:50
+I know for example that I saw presentation that at daisy in Qatar. That try to group the beam lines.
+
+[Renaud Duyme (ESRF)] 11:48:59
+Bye and said okay on this beam line we are working on environment on this beam line so it's not easy to do because you have to to ask each main line scientist which topics are you studying and then you they try to do this kind of cluster exactly what you showed this kind of cluster and it was not it's not an easy way to So it could be a way to help on this kind of vision, maybe not even at
+
+[Renaud Duyme (ESRF)] 11:49:30
+the review process but used by the top management or after a round of proposal you look at what you accepted.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:49:33
+Okay.
+
+[Renaud Duyme (ESRF)] 11:49:39
+Because, I don't know that video probably part of, review process. Do you actually need a tool to help you, evaluating?
+
+[Renaud Duyme (ESRF)] 11:49:51
+Better proposals that would use this kind of data. That's the question.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:49:56
+I can't answer that because I've not had tools to help, but for example, the father of my child at school works at Elsvia and he's working on AI for language models to look at the application, the papers that the editor receives because they an editor receives so many papers that he needs to decide which ones to reject immediately, which ones to send to reviewers.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:50:20
+So he's just doing a language model ways. Getting all the papers and some are immediately trashed and some are directed okay and then the editors still reviews but reviews maybe every day 10 papers instead of 500 So they are, and that's if I was at that level and I'm not at that review, you know, editor lever, I can see the need enormously at the syncron is different.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:50:43
+We only have once a year, they all come together, they come in bags. So, you know, it's a heavy work.
+
+[Renaud Duyme (ESRF)] 11:50:45
+It's
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 11:50:48
+I don't know. I don't have a tool, so I don't know how much would be helpful.
+
+[Renaud Duyme (ESRF)] 11:50:52
+Yeah, it's, I think this question is important. We don't, I don't know how many proposals that comes every while around.
+
+[Renaud Duyme (ESRF)] 11:51:01
+I think it's about 1,000 at each round. So for 40 people. So when you split I mean when you split that in the end it's not so much you they take one day and they review 2050 or so it goes quite fast and you buy a beam line you can kind of have a vision of the topics.
+
+[Renaud Duyme (ESRF)] 11:51:26
+So, probably you need to have interviews with, with the review panel to see exactly what are the challenges.
+
+[Renaud Duyme (ESRF)] 11:51:37
+When the receiver proposals do they need to have a better vision on what's the topic, maybe a summary.
+
+[Renaud Duyme (ESRF)] 11:51:45
+You can do some summary as well of You have some, some tools that allows making a short summary of proposals, maybe.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:51:53
+Hmm. Yeah. I think it's I think it's worth pointing out that what what Terence has as presented are like potential future applications, you know, this is not.
+
+[Renaud Duyme (ESRF)] 11:51:55
+Okay.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:52:06
+This is not what his PhD project is about. The PhD project is about understanding the potential. For doing these things and you know maybe it won't work and and they'll find out what the problems are and and you'll find out what the problems are and and and you'll find out what the what the standards are in particular domains because you know we don't have we don't have photons because you know we don't have we don't have photo on science
+
+[Renaud Duyme (ESRF)] 11:52:08
+Hmm
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:52:19
+Yeah.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:52:31
+we have lots of different domains because you know we don't have we don't have photo on science we have lots of different vote on sciences and the cultures and the language users all completely different and this is all part of the research.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:52:40
+That will be doing so it's not it's not aimed at you know, producing a tool, but that in, but that's part of the justification that in the long term.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:52:50
+It could be, it could be used that way. But, but I'm, I'm thinking of, there's a paper by I think somebody in Ross Kings.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:52:59
+Group years ago when they they were looking at an ontology as a scientific ontology and analyzing Scientific publications.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:53:10
+And they they are actually managed to kind of quantify the amount of information it was in scientific publications and concluded that some of them that they looked at basically didn't say anything.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:53:26
+You know, this sort of thing I think would be really interesting to look at.
+
+[Renaud Duyme (ESRF)] 11:53:31
+So.
+
+[Susanna-A Sansone] 11:53:32
+Steve, I also take the point which I hear from several of you. Importance of focusing because it is true, you know, tenants intent to focus on your on the initial phase of the lifecycle and like like Brian also say that you know this active DNP so trying to you know get this concept of fair from the beginning and understand how to pascade it throughout the process.
+
+[Susanna-A Sansone] 11:53:58
+But nevertheless, in order to show it this cascade, they will have to demonstrate. So I think we have to be indeed cautious.
+
+[Susanna-A Sansone] 11:54:08
+So that's feasible. I probably should have given a very quick background in the sense that this is year one of his project.
+
+[Susanna-A Sansone] 11:54:17
+He started October last year, not even one year. And this is the second year that the student takes to define the project.
+
+[Susanna-A Sansone] 11:54:23
+So, you know, the idea comes from parents. We guide him and we give him the context and that's why we, you know, we wanted to have a good like this to help him and then he will have the 3 years when he execute the project.
+
+[Susanna-A Sansone] 11:54:36
+So just in terms of timeline, also that and just graduated last year. So it's first degree was last year from from engineering which means all of this is completely new to him.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:54:37
+Hmm.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:54:48
+Yeah, just, wanna say because we're not brought up the point where, you know, like the different extracting different metadata could be different, like chemicals and topics really quite different.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:55:00
+So yeah, I think the advantage, I think that's actually an advantage of the project and comes that it's quite modular.
+
+[Renaud Duyme (ESRF)] 11:55:04
+Okay.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:55:08
+So the projects difficulty can be quite easily like modified if. If we find that the technology and this machine learning areas mature enough that it can quite easily extract chemical entities, for example.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:55:22
+We could do more. Like we could do chemical and topic if it's like too hard, we could reduce and just focus on topics, for example, or chemicals.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:55:31
+And even if like we focus on one topic and discover it doesn't work like that still tells us a lot about what's going on in that area.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:55:40
+And if diamond leadership thinks that. This would still be something worth investing in the future. They, well, they have somewhere to start like a summer to start off from, I suppose.
+
+[Susanna-A Sansone] 11:55:52
+Yes, so the would not be written in stone even if you. It's a plan. Use this plan for this transfer.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:55:53
+Yeah, and.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:55:57
+Thank you.
+
+[Susanna-A Sansone] 11:56:00
+From year one to to become a proper student, then the plan can be changed. And that reason to engage you routinely maybe every 6 months or then individually depending on the topic.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:56:06
+Yeah.
+
+[Susanna-A Sansone] 11:56:14
+To make sure that if there are big problems we can then move the direction.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:56:21
+Yeah, and with all the potential applications like everyone has pointed out, of course, it's quite hard to.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:56:28
+Affect all of it. So definitely identify which areas that we should focus on. Would be part of the future work.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:56:34
+Hmm. Hmm Excellent. So we got we got 4 min left. I'm getting is general support for this.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:56:49
+The need for caution. And to potentially focus, in order to. Make it an achievable.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:57:00
+Project is that Yeah, using fair in the old fashioned way.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:57:06
+Yeah.
+
+[Brian Matthews - STFC UKRI] 11:57:09
+Yeah, I think.
+
+[Brian Matthews - STFC UKRI] 11:57:13
+Start off with some initial goals and then some Maybe some stretch calls.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:57:19
+Yeah.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:57:25
+So we haven't really. Discussed. How to move forward.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:57:31
+So, Terrence, maybe we could finish with your last slide again and, and just. See if we can.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:57:35
+Oh yeah, I will.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:57:38
+Address any other questions including future engagement.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:57:47
+Yeah, so it's small about like call. Frequency on meeting so like Susanna said maybe we could meet one so once every 6 months or it could be more like, it could just be just whenever, it doesn't have to be like schedule.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:58:04
+We, we could just beat whenever, necessary, for example. And. You the Well, be like group versus ad hoc engagements because we don't always have to meet as a group, in some faces and project it might be more useful to meet with each of you individually.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:58:24
+And of course like a involvement in possible publications in the future. They're quite nice.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:58:36
+Any any thoughts on that?
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 11:58:37
+So.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:58:44
+Well, I mean, are you happy to continue? First question. So clearly this, this is only the start and the project should become more.
+
+[Brian Matthews - STFC UKRI] 11:58:49
+Yes. Yeah.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 11:58:59
+More focused and more solid as as time goes on.
+
+[Susanna-A Sansone] 11:59:03
+And perhaps I do have a question. So for example, Reno and I are in the EOS-COOST trail project.
+
+[Susanna-A Sansone] 11:59:10
+So if anything comes in depth project that could be that that could be of views, you know, of course I would better it in mind and hopefully we're all too, but is there any other project that you are involved in mind and hopefully overall too, but is there any other project that you are involved in or O'brien even the ADA working group that you have started.
+
+[Susanna-A Sansone] 11:59:29
+Is there anything that we could use potentially as both as a venue for tenants in the future to, or in engage with because they would be things on this line not related.
+
+[Susanna-A Sansone] 11:59:43
+Because we're looking for this. Okay.
+
+[Brian Matthews - STFC UKRI] 11:59:43
+Hello. The IVA group is an economy. Is sort of a fairly occasional group. It kind of comes together for a meeting.
+
+[Susanna-A Sansone] 11:59:50
+Okay.
+
+[Brian Matthews - STFC UKRI] 11:59:54
+Every 2, 3 years, let's say. Would be a good venue though. All that stuff.
+
+[Brian Matthews - STFC UKRI] 12:00:05
+There might be other opportunities. Didn't mention Oscars but there are Oscars the Oscars project is a something that you might want to get engaged with.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 12:00:16
+Hmm
+
+[Susanna-A Sansone] 12:00:17
+Yeah, we are through OS Trail because in Australia we have all the all the clusters.
+
+[Brian Matthews - STFC UKRI] 12:00:23
+Right.
+
+[Susanna-A Sansone] 12:00:24
+That and then the connection with Oscar is also towards OS Trail.
+
+[Brian Matthews - STFC UKRI] 12:00:29
+Right.
+
+[Brian Matthews - STFC UKRI] 12:00:35
+And
+
+[Brian Matthews - STFC UKRI] 12:00:38
+Yeah, I mean.
+
+[Susanna-A Sansone] 12:00:39
+Yes, it will be, yeah, it's the one we were. At where all the
+
+[Brian Matthews - STFC UKRI] 12:00:46
+I mean, I've, yeah, really mentioned to expand. You know, the massive we've produced a huge amount of material and expands.
+
+[Brian Matthews - STFC UKRI] 12:00:54
+Too much in some respects. But I'm sure you're aware of all that.
+
+[Susanna-A Sansone] 12:01:00
+Yeah, the direct deterrence to try to read as much as possible.
+
+[Brian Matthews - STFC UKRI] 12:01:04
+Yeah. And we are actually. Producing a summary of it. With a
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 12:01:05
+Okay.
+
+[Susanna-A Sansone] 12:01:08
+Yeah.
+
+[Susanna-A Sansone] 12:01:14
+Oh, that would be useful.
+
+[Brian Matthews - STFC UKRI] 12:01:18
+There's been a couple of papers since, and there is this, yeah, pairing a summary, but.
+
+[Brian Matthews - STFC UKRI] 12:01:22
+That's been quite a long time coming. I mean, should be ready actually.
+
+[Susanna-A Sansone] 12:01:24
+Okay.
+
+[Brian Matthews - STFC UKRI] 12:01:34
+Yeah, I think I can think, for the moment. But I'm sure they will.
+
+[Brian Matthews - STFC UKRI] 12:01:41
+If some coming up. No, books, there's no books in the sprint in there. No books this year.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 12:01:49
+Don't I?
+
+[Brian Matthews - STFC UKRI] 12:01:51
+No, Banks is a a conference that happens every couple of years.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 12:01:56
+Yeah, Kate is saying is that the SRF this year.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 12:02:00
+So 10. September it looks like.
+
+[Brian Matthews - STFC UKRI] 12:02:00
+That's in the autumn, isn't it? And.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 12:02:04
+What's that David? Sorry.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 12:02:06
+Okay, was saying is in at the SRF this year and probably in September, got no bugs.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 12:02:09
+Oh, no, the notebooks. Yeah.
+
+[Renaud Duyme (ESRF)] 12:02:12
+Yeah, maybe I'm, yeah. You should say.
+
+[Brian Matthews - STFC UKRI] 12:02:15
+I think they're looking for abstracts now, aren't they?
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 12:02:25
+What's the, what's the scope of no bugs? Because I thought I thought it was just data acquisition so I guess it's more than that.
+
+[Brian Matthews - STFC UKRI] 12:02:33
+Yeah, no, it's not just that track position.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 12:02:35
+Yeah. Alright.
+
+[Brian Matthews - STFC UKRI] 12:02:38
+It's more or less anything to do with.
+
+[Brian Matthews - STFC UKRI] 12:02:44
+Computing infrastructure for. Facilities.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 12:02:47
+Yeah, okay. No, it sounds relevant then. We're also trying to sign up to Maggie's MOU for their data.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 12:02:57
+So hopefully that will strengthen the discussion forum.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 12:03:02
+Oh, thanks, Susanna.
+
+[Susanna-A Sansone] 12:03:04
+So it would be at the renewal. Home.
+
+[Renaud Duyme (ESRF)] 12:03:09
+At my place
+
+[Renaud Duyme (ESRF)] 12:03:11
+Yeah, back to, to the question, is it achievable over the next 3 years?
+
+[Renaud Duyme (ESRF)] 12:03:18
+We had a project internally. At where we had this kind of You had your kind of profile, with, in a project which was involved in name, entity, recognition in documents.
+
+[Renaud Duyme (ESRF)] 12:03:40
+And, machine learning So the the guy was not even knowing all these techniques before. So in Syria you have time to to be knowledgeable in this, in these topics.
+
+[Renaud Duyme (ESRF)] 12:03:57
+I would say maybe for the for the chemical components You add another layer of knowledge, which is the, you know, the actual knowledge of What are the chemical component structure, etc.
+
+[Renaud Duyme (ESRF)] 12:04:16
+So maybe if you don't have a background of biology. It may not help. I am not quite sure.
+
+[Renaud Duyme (ESRF)] 12:04:22
+But if you work on topic classification or I don't know. If you work on planet, you will have the whole team to help you.
+
+[Renaud Duyme (ESRF)] 12:04:35
+I'm not even a specialist as well on techniques, but at least you have closer. You could have feedback from from Steve and the whole team on planet.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 12:04:47
+Okay.
+
+[Renaud Duyme (ESRF)] 12:04:50
+So yeah. So it's definitely achievable. By doing code and You know, did you ring something that is definitely usable?
+
+[Susanna-A Sansone] 12:04:51
+Okay.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 12:04:54
+Okay.
+
+[Renaud Duyme (ESRF)] 12:05:03
+Starting from the in the end you have a lot of science and tools developed based on publication. And you can really reuse this all these tools and apply them to our proposals.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 12:05:18
+Yeah. Yeah.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 12:05:19
+Yeah.
+
+[Renaud Duyme (ESRF)] 12:05:19
+So it's just maybe it would be the way to explain what you are doing. You start from the existing knowledge that has been done and at on BBI metrics and publication analysis, and you think it's valuable to use it at proposal level and to see how this can be used.
+
+[Renaud Duyme (ESRF)] 12:05:43
+But the same way there are many people working on different aspect of analyzing a publication. You will have to choose.
+
+[Renaud Duyme (ESRF)] 12:05:50
+On which one you will, focus. I have the feeling that for for photon and neutron facilities.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 12:05:53
+Yeah.
+
+[Renaud Duyme (ESRF)] 12:06:01
+What we only do is to create instruments and create techniques and that's how we are, and we sell it and that's why we are doing what we are doing.
+
+[Renaud Duyme (ESRF)] 12:06:13
+I don't know Steve, what's your opinion on that? What's what's the most important?
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 12:06:16
+You mean, in terms
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 12:06:20
+Well, no, but I think under yeah, understanding the context and and meaning is somewhere, something that we are really, really bad at because it's difficult.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 12:06:31
+So yeah, I think it's extraordinarily important. You know, what's the point? And, and, and it's such a complicated problem is it really goes into scientific culture.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 12:06:42
+And who decides what's important? Okay, it's not an easy thing. Instruments and techniques quite easy.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 12:06:51
+But these things are more important just harder. I think I think it's very important. So anyway, sorry, so we're sort of over so Terrence, did you want to say have a have a last word before we finish.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 12:06:56
+Yeah.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 12:07:07
+Yeah, just, thank you so much for taking a time to, come to this meeting.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 12:07:13
+Yeah, it's, then thank you for the feedback. It's been really helpful.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 12:07:16
+And, I think just in terms of frequency of our meeting, perhaps. We don't have to set anything right now.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 12:07:24
+I think we can just. Just see how it goes as I go along this project. And if I need your help, I'll just reach out to.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 12:07:31
+Oh.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 12:07:35
+Yeah, but thank you so much.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 12:07:37
+Brilliant. Thank you. Yeah, thanks everybody. So we'll stop there then and say goodbye.
+
+[Susanna-A Sansone] 12:07:37
+Yeah, thank you. Thank you. Thank you.
+
+[Brian Matthews - STFC UKRI] 12:07:39
+Thank you.
+
+[Tan, Terence (University of Oxford,RAL,SCI)] 12:07:45
+Yeah. Alright, bye, thank you.
+
+[Brian Matthews - STFC UKRI] 12:07:46
+Alright.
+
+[Aragao, David (DLSLtd,RAL,LSCI)] 12:07:47
+Thank you.
+
+[Collins, Steve (DLSLtd,RAL,SCI)] 12:07:48
+Cheers, thank you. Bye.
+
+[Susanna-A Sansone] 12:07:49
+Hi.
+
+[Renaud Duyme (ESRF)] 12:07:50
+Right.
+
